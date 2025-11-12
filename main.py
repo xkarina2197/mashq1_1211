@@ -20,7 +20,7 @@ print(matn.strip())
 
 # 5-misol
 matn = input("email manzilni kirit: ")
-print(matn.strip())
+print(matn.strip(),f"tozalangan email")
 
 # 6-misol
 matn = ("  Hello world  ")
